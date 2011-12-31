@@ -1,0 +1,22 @@
+OVERJOY [GIT] commit ee11f1a5: Update HOSTS.URL, DATABASE.URL.
+
+
+Path  : git
+Date  : 2012-01-01 03:36:47 +0800
+Author: Afun Nahn
+Commit: ee11f1a52fbf5b8a590e9dd66938f4a5d2a8873a
+
+    Update HOSTS.URL, DATABASE.URL.
+
+
+
+ HOSTS.URL                   |    2 +-
+ ladies/DATABASE.URL         | 2919 +++++++++++++++++++++----------------------
+ ladies/bookmarks.html       |  836 +++++++++++++
+ ladies/tagfs.logs           |  674 ++++++++++
+ ladies/urlrule_database.log |    2 +
+ ladies/urlrule_task.log     |    2 +
+ 6 files changed, 2969 insertions(+), 1466 deletions(-)
+
+================================================================================
+
