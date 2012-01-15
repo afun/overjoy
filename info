@@ -1,27 +1,22 @@
-OVERJOY [GIT] commit 783ed597: Add scripts, update database.
+OVERJOY [GIT] commit ea3c8198: Update logs.
 
 
 Path  : git
-Date  : 2012-01-06 13:45:02 +0800
+Date  : 2012-01-16 05:10:57 +0800
 Author: Afun Nahn
-Commit: 783ed5974a657b8e3dce677747525fa68067ddb8
+Commit: ea3c8198085e87c54ec6a318b61ec9d2fa91b752
 
-    Add scripts, update database.
+    Update logs.
 
 
 
- HOSTS.URL                   |  438 ++++++++++++++++++++++---------------------
- ladies/Ameri Ichinose       |    1 +
- ladies/DATABASE.URL         |  291 ++++++++++++++++++-----------
- ladies/NAMES.db             |    1 +
- ladies/add                  |    2 +
- ladies/bookmarks.html       |  194 +++++++++++++++++++
- ladies/download             |    2 +
- ladies/tagfs.logs           |  202 ++++++++++++++++++++
- ladies/urlrule_database.log |   41 ++++
- ladies/urlrule_task.log     |  237 +++++++++++++++++++++++
- photographer                |    1 +
- 11 files changed, 1088 insertions(+), 322 deletions(-)
+ ladies/.mc.menu             |   17 ++-
+ ladies/bookmarks.html       |  198 +++++++++++++++++++
+ ladies/tagfs.logs           |  220 +++++++++++++++++++++
+ ladies/tb-hook.pl           |   37 ++++-
+ ladies/urlrule_database.log |  164 ++++++++++++++++
+ ladies/urlrule_task.log     |  445 +++++++++++++++++++++++++++++++++++++++++++
+ 6 files changed, 1073 insertions(+), 8 deletions(-)
 
 ================================================================================
 
