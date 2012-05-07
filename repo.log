@@ -1,22 +1,17 @@
-OVERJOY [GIT] commit ea3c8198: Update logs.
+OVERJOY [GIT] commit 4fb6cdf8: Add lists/CleanFiles.pl.
 
 
 Path  : git
-Date  : 2012-01-16 05:10:57 +0800
+Date  : 2012-05-07 23:30:35 +0800
 Author: Afun Nahn
-Commit: ea3c8198085e87c54ec6a318b61ec9d2fa91b752
+Commit: 4fb6cdf802e5011a9d9d23b132b6bf64242abd26
 
-    Update logs.
+    Add lists/CleanFiles.pl.
 
 
 
- ladies/.mc.menu             |   17 ++-
- ladies/bookmarks.html       |  198 +++++++++++++++++++
- ladies/tagfs.logs           |  220 +++++++++++++++++++++
- ladies/tb-hook.pl           |   37 ++++-
- ladies/urlrule_database.log |  164 ++++++++++++++++
- ladies/urlrule_task.log     |  445 +++++++++++++++++++++++++++++++++++++++++++
- 6 files changed, 1073 insertions(+), 8 deletions(-)
+ lists/CleanFiles.pl |   72 +++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 72 insertions(+)
 
 ================================================================================
 
